@@ -1,5 +1,5 @@
 ### Hi there, I'm Ellen!! :raising_hand:
-Welcome to here. My name is Ellen, currently I want to change my area of ​​expertise in technology. So I'm dedicating myself a lot to programming.
+Currently I want to change my area of expertise in technology. So I'm dedicating myself a lot to programming.
 <img align="right" src="https://github.com/ellensantis/ellensantis/blob/main/download.png" width="350"/>
 
 ***
