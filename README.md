@@ -15,4 +15,3 @@ Reach me out :point_down:	<br><br>
 ](mailto:ellencssp@gmail.com)
 
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=ellensantis.visitor-badge.issue.1)
