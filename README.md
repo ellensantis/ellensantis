@@ -1,6 +1,6 @@
 ### Hi there, I'm Ellen!! :raising_hand:
 Currently I want to change my area of expertise in technology. So I'm dedicating myself a lot to programming.
-<img align="right" src="https://github.com/ellensantis/ellensantis/blob/main/download.png" width="350"/>
+<img align="right" src="https://github.com/ellensantis/ellensantis/blob/main/femorct.png" width="350"/>
 
 ***
  Some curiosities about me:
