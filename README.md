@@ -4,6 +4,7 @@ Currently I want to change my area of expertise in technology. So I'm dedicating
 
 ***
  Some curiosities about me:
+ - Graduated in information systems and post graduated in project management.
  - For 3 years I taught at a technology school for young people and adults.
  - I have worked in several segments, I am fully adaptable to new culturies and activities.
  - Very passionate about technology and travel.
