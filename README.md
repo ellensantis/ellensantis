@@ -1,5 +1,5 @@
 ### Hello World, I'm Ellen!! :raising_hand:
-I am currently dedicating myself a lot to programming and new technologies.
+I am currently dedicating myself to programming and new technologies.
 <img align="right" src="https://github.com/ellensantis/ellensantis/blob/main/femorct.png" width="350"/>
 
 ***
